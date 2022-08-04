@@ -2,395 +2,425 @@ function ExecuteScript(strId)
 {
   switch (strId)
   {
-      case "6qdlZ3SYczY":
+      case "6QkKFMhE47d":
         Script1();
         break;
-      case "66CD9ZuS7Dh":
+      case "6Wpx8idKwR9":
         Script2();
         break;
-      case "6dMM5OUNvWs":
+      case "5zzfgK9mDQI":
         Script3();
         break;
-      case "6QQPwrJ5VT4":
+      case "6ePKLQNM6En":
         Script4();
         break;
-      case "6Qa1imWxOpX":
+      case "668SvOG7dX4":
         Script5();
         break;
-      case "5kkOnfNDsfn":
+      case "6MTZc50YpyT":
         Script6();
         break;
-      case "5nGXxpFtglv":
+      case "5hITQjOlhPD":
         Script7();
         break;
-      case "6Crc027aVmJ":
+      case "6KDVVfX8Rys":
         Script8();
         break;
-      case "66za8ocsfd7":
+      case "6BALhS7VjDz":
         Script9();
         break;
-      case "6aZbLZ9obFx":
+      case "6CrJ6f2bnkn":
         Script10();
         break;
-      case "6ZQtOGooUvU":
+      case "6B184Fv1MDt":
         Script11();
         break;
-      case "66UaFdGcJCf":
+      case "6EsFDDNS0KQ":
         Script12();
         break;
-      case "6Mt2hIFTqEr":
+      case "6WDv71Eqxbz":
         Script13();
         break;
-      case "6pQMBVUVEYh":
+      case "5eo9k2nm9qM":
         Script14();
         break;
-      case "66mWZiMYx5X":
+      case "6228zthxxf1":
         Script15();
         break;
-      case "5m1j3jfltd9":
+      case "6CyLRg2H9TS":
         Script16();
         break;
-      case "6DrytQrerTG":
+      case "6pV7N1QzN46":
         Script17();
         break;
-      case "5xuimJhy0Ej":
+      case "5toY4jO4D2d":
         Script18();
         break;
-      case "65B9eiBp8CL":
+      case "6rd6NkcB4KP":
         Script19();
         break;
-      case "5fDjTeAqB0e":
+      case "6U65My87wDh":
         Script20();
         break;
-      case "6adoVSWOGtr":
+      case "5eUz43ASXYe":
         Script21();
         break;
-      case "5hR3rFIcGbN":
+      case "5iWWe5tSSoZ":
         Script22();
         break;
-      case "6VlR9FFvMv4":
+      case "6iSsCLe7ZVq":
         Script23();
         break;
-      case "6FPkyeNJNIL":
+      case "5dt3CYdzbZK":
         Script24();
         break;
-      case "6i6qZNrP2wL":
+      case "6fAUJ4bSo97":
         Script25();
         break;
-      case "6PmaMGIIapp":
+      case "6duYf3720R5":
         Script26();
         break;
-      case "6RznF7VYr0C":
+      case "6M6hVrz2ods":
         Script27();
         break;
-      case "6TbAcJEB7y1":
+      case "6ErR1Nkf4mn":
         Script28();
         break;
-      case "6rh4Pm3wXP8":
+      case "6QVlAwXIvxV":
         Script29();
         break;
-      case "65DqYwxB4Hu":
+      case "6cz2kF5faKc":
         Script30();
         break;
-      case "5remqqdhGgJ":
+      case "5WYy6QWQ33Z":
         Script31();
         break;
-      case "6Si6Rud3qTl":
+      case "6V2SqF0KkR6":
         Script32();
         break;
-      case "5kUGRO9gJ2q":
+      case "62qFoMJHh9z":
         Script33();
         break;
-      case "6in2hR0GmGr":
+      case "68o7046tcxp":
         Script34();
         break;
-      case "5b1IVicvXKE":
+      case "6SUeZTwZ36Z":
         Script35();
         break;
-      case "62dKgYhYmdf":
+      case "5qMapEZ1iSw":
         Script36();
         break;
-      case "6HW8QdDvI6s":
+      case "6qs2wWp8kg1":
         Script37();
         break;
-      case "5cm591zGHZX":
+      case "6B69KQjLBjO":
         Script38();
         break;
-      case "6kTOhH3gxxs":
+      case "6H0LayrhQ5G":
         Script39();
         break;
-      case "6jCQGr7dYQc":
+      case "5XJ04LS6Kh9":
         Script40();
         break;
-      case "6cPiPlgXmz5":
+      case "6dRbVKTqnUW":
         Script41();
         break;
-      case "6P5hTbNAu7b":
+      case "5gqnaHFeVg6":
         Script42();
         break;
-      case "5bflEGPMAH3":
+      case "5h7Wm23sgK1":
         Script43();
         break;
-      case "6Emgg09bGcU":
+      case "5qpyLu45qiu":
         Script44();
         break;
-      case "5yn8Wf6gDVg":
+      case "6LULIcPv0uw":
         Script45();
         break;
-      case "5pjrNNbIen3":
+      case "6p3QYrHW9Mr":
         Script46();
         break;
-      case "6JulkM2B9fC":
+      case "6YhCT8W4KuW":
         Script47();
         break;
-      case "5Ydf1cRqrPJ":
+      case "5f6S3WIl21j":
         Script48();
         break;
-      case "5qW2GlQ0E9G":
+      case "5WyST7DWnwo":
         Script49();
         break;
-      case "66guwrwYfdF":
+      case "6XEDvyUbqFh":
         Script50();
         break;
-      case "60KHwu7YqPR":
+      case "5XxNUz8eiDM":
         Script51();
         break;
-      case "6aUwWVHUKjv":
+      case "5aWk2PsD76V":
         Script52();
         break;
-      case "68ZWn0DLLzF":
+      case "5niaW54t6k1":
         Script53();
         break;
-      case "5eUlqyEmzRh":
+      case "62MIHdUGHnX":
         Script54();
         break;
-      case "5pIktvlAQHc":
+      case "5zGfurEVSW7":
         Script55();
         break;
-      case "5Wrxqeqf8hj":
+      case "5kXIMivM8pj":
         Script56();
         break;
-      case "5czQZh3ULkb":
+      case "5wW4EtLmRwO":
         Script57();
         break;
-      case "5nD1mXfxsms":
+      case "6a3JnEGiqnW":
         Script58();
         break;
-      case "6Q8hGsa7cfw":
+      case "5lxNRaKLelW":
         Script59();
         break;
-      case "5XkUFUbnrdI":
+      case "5c36t325uGh":
         Script60();
         break;
-      case "6WBC8XsuN8B":
+      case "6N9ETOqbEg8":
         Script61();
         break;
-      case "6nbs5uRekMq":
+      case "5qBWixOudA0":
         Script62();
         break;
-      case "5vGtjjC2H7f":
+      case "6GEAz3JwAEy":
         Script63();
         break;
-      case "6RvTcQFHa6D":
+      case "67X3nByVqgY":
         Script64();
         break;
-      case "5hdWTsCoxkX":
+      case "5j2gxAq4ndI":
         Script65();
         break;
-      case "6avRWfHvrHa":
+      case "5s0vzKIEY1z":
         Script66();
         break;
-      case "65RjBCk4nVA":
+      case "5WVQXtZgDpw":
         Script67();
         break;
-      case "5YpuEbTNRnd":
+      case "6EtGUkyIns6":
         Script68();
         break;
-      case "6CPoQkxyGie":
+      case "6QfMvIR0DVZ":
         Script69();
         break;
-      case "64HIkwaPCMa":
+      case "5lK2f8Iiz0q":
         Script70();
         break;
-      case "5vdNYsl5Qdt":
+      case "68aGRVZy92L":
         Script71();
         break;
-      case "5vUuZE5wgpa":
+      case "5zSLxOCsGqZ":
         Script72();
         break;
-      case "5b343llOLNN":
+      case "6gnyRFMI1Vt":
         Script73();
         break;
-      case "5gIW6vsB5G0":
+      case "5aHfwHrWnMA":
         Script74();
         break;
-      case "5lSc2eoB3dA":
+      case "6kM9uQuILV7":
         Script75();
         break;
-      case "6gZwHyXxGwZ":
+      case "6nroTs6iaWL":
         Script76();
         break;
-      case "6EzHdKMmlgk":
+      case "5XjSlebIpFi":
         Script77();
         break;
-      case "5YZqOpWd0Yw":
+      case "5bt7ILXCiui":
         Script78();
         break;
-      case "5pWWAT8lQGk":
+      case "5ezUYwsUC51":
         Script79();
         break;
-      case "6VVhXgSe8Ec":
+      case "69SAbnyOGNE":
         Script80();
         break;
-      case "5okWcvgvi08":
+      case "6A6U1YhHMWS":
         Script81();
         break;
-      case "5er2jIrGrBg":
+      case "5xZNu4MOD9s":
         Script82();
         break;
-      case "6NtCv0JmGEd":
+      case "69giujs7g4o":
         Script83();
         break;
-      case "65f3kL3unh7":
+      case "6L2XJKXh8gM":
         Script84();
         break;
-      case "6g0CZzymIs2":
+      case "5huaFDktfgS":
         Script85();
         break;
-      case "5nyUwubYkg1":
+      case "5osNx05L351":
         Script86();
         break;
-      case "6Wel4Y2h2lX":
+      case "6MKQCyYbf6K":
         Script87();
         break;
-      case "5ivBFeKuVV4":
+      case "5oOzf17bAzt":
         Script88();
         break;
-      case "6WOSm33uNS1":
+      case "6WcvbJuUEo3":
         Script89();
         break;
-      case "5yEky27TNDo":
+      case "6OPAi2xZ8Db":
         Script90();
         break;
-      case "5z8BPLZhRof":
+      case "5jhRCy4exIp":
         Script91();
         break;
-      case "67fcKBAdEvt":
+      case "67n65nkVMqw":
         Script92();
         break;
-      case "6nFuPIFry1i":
+      case "5Xf5dJZukaf":
         Script93();
         break;
-      case "5YVKxrX7dGj":
+      case "5Z8il9kO8Qr":
         Script94();
         break;
-      case "5VU4eD5Myjr":
+      case "61f5iInEkMa":
         Script95();
         break;
-      case "6SGu6NhH9Vk":
+      case "6a2Sz7dfLiN":
         Script96();
         break;
-      case "5jMy3znrWyy":
+      case "6SRoTFvHb1I":
         Script97();
         break;
-      case "65g68HuRNid":
+      case "6rJXyUOnWWZ":
         Script98();
         break;
-      case "6Z4LJ2rcFv1":
+      case "5yQcRHOGA1z":
         Script99();
         break;
-      case "6MK6xMYvk84":
+      case "5dHi2ZphDls":
         Script100();
         break;
-      case "5sMUXnus05i":
+      case "5YWI8129cTf":
         Script101();
         break;
-      case "6ZBLRhgelMI":
+      case "5mXqHYfQWP4":
         Script102();
         break;
-      case "6RmanPyNhmZ":
+      case "6jLhntO55z5":
         Script103();
         break;
-      case "6HDWj9mGfKB":
+      case "6AtKnSSr9X8":
         Script104();
         break;
-      case "687Up7tVhdu":
+      case "6TaLHaURCfU":
         Script105();
         break;
-      case "6jwn84WEvFn":
+      case "6X14gQf0ypg":
         Script106();
         break;
-      case "6qCX88dox4I":
+      case "5hqIhYidCMW":
         Script107();
         break;
-      case "6RirYXr5Jid":
+      case "6HPLfExY0Av":
         Script108();
         break;
-      case "5sRK8zlbk4G":
+      case "6eJcsbfmWL3":
         Script109();
         break;
-      case "6PyBxZfZLXp":
+      case "6muHU28sACA":
         Script110();
         break;
-      case "6dZCptu2QZ7":
+      case "5n0fmRParYD":
         Script111();
         break;
-      case "6h8HAGzAzpc":
+      case "6DTVoxECKwN":
         Script112();
         break;
-      case "6Tr6Yee7Udo":
+      case "6oZbRyOWEan":
         Script113();
         break;
-      case "6RN5mxogCS9":
+      case "66ThIDFbpgP":
         Script114();
         break;
-      case "6pryUztsIjb":
+      case "6JJcCXjPT7P":
         Script115();
         break;
-      case "5akqH8qV9H1":
+      case "6pMSnZMfLBo":
         Script116();
         break;
-      case "5ZoidGvPvW5":
+      case "69GAZQECkHI":
         Script117();
         break;
-      case "5q862SBlKnY":
+      case "5jNQcm3iQX0":
         Script118();
         break;
-      case "5e8SeCT1kgK":
+      case "6AxiXodCqLo":
         Script119();
         break;
-      case "6DofQlpIJM4":
+      case "5nSUoRdxtdt":
         Script120();
         break;
-      case "5uNx3ZbihK7":
+      case "5wAmHbv2r0k":
         Script121();
         break;
-      case "6XMYT9dDP2D":
+      case "65IdRePUTDl":
         Script122();
         break;
-      case "5pdKtosn5Go":
+      case "5pEZbiTVi9C":
         Script123();
         break;
-      case "5nRGKooJYOK":
+      case "5tehdhgDMcp":
         Script124();
         break;
-      case "6EpaVRfpjCN":
+      case "6ZUdEZHLy8P":
         Script125();
         break;
-      case "6AwEHHZG4ke":
+      case "64UVLEbO08v":
         Script126();
         break;
-      case "6emSI1PBM0o":
+      case "6pXH4SXAyiB":
         Script127();
         break;
-      case "6INe7rMJbMX":
+      case "6fgos8jTeEO":
         Script128();
         break;
-      case "6eSHWBzWLaq":
+      case "6UBhP7jh6Zu":
         Script129();
         break;
-      case "6ioiCk7c1Lq":
+      case "5mJc9LR0CL3":
         Script130();
+        break;
+      case "6i01V0XgyeG":
+        Script131();
+        break;
+      case "5n7oZmO9mBi":
+        Script132();
+        break;
+      case "5YHn7e6xI0d":
+        Script133();
+        break;
+      case "5s9pTKHziCN":
+        Script134();
+        break;
+      case "6qwyWx6ABR4":
+        Script135();
+        break;
+      case "6dLqbonmpqj":
+        Script136();
+        break;
+      case "6cUJn0wLdkX":
+        Script137();
+        break;
+      case "5zoLK3Lavnd":
+        Script138();
+        break;
+      case "5gWA3C65HU2":
+        Script139();
+        break;
+      case "5qxd3Lp2KH2":
+        Script140();
         break;
   }
 }
@@ -398,1950 +428,1400 @@ function ExecuteScript(strId)
 function Script1()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt1');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "1";
-player.SetVar('gt1', tomato);
+numb = numb + "1";
+player.SetVar('o'+inp, numb);
 }
 
 function Script2()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt1');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "2";
-player.SetVar('gt1', tomato);
+numb = numb + "2";
+player.SetVar('o'+inp, numb);
 }
 
 function Script3()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt1');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "3";
-player.SetVar('gt1', tomato);
+numb = numb + "3";
+player.SetVar('o'+inp, numb);
 }
 
 function Script4()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt1');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "4";
-player.SetVar('gt1', tomato);
+numb = numb + "4";
+player.SetVar('o'+inp, numb);
 }
 
 function Script5()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt1');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "5";
-player.SetVar('gt1', tomato);
+numb = numb + "5";
+player.SetVar('o'+inp, numb);
 }
 
 function Script6()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt1');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "6";
-player.SetVar('gt1', tomato);
+numb = numb + "6";
+player.SetVar('o'+inp, numb);
 }
 
 function Script7()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt1');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "7";
-player.SetVar('gt1', tomato);
+numb = numb + "7";
+player.SetVar('o'+inp, numb);
 }
 
 function Script8()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt1');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "8";
-player.SetVar('gt1', tomato);
+numb = numb + "8";
+player.SetVar('o'+inp, numb);
 }
 
 function Script9()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt1');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "9";
-player.SetVar('gt1', tomato);
+numb = numb + "9";
+player.SetVar('o'+inp, numb);
 }
 
 function Script10()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt1');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "0";
-player.SetVar('gt1', tomato);
+numb = numb + "0";
+player.SetVar('o'+inp, numb);
 }
 
 function Script11()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt2');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "1";
-player.SetVar('gt2', tomato);
+numb = numb + "1";
+player.SetVar('o'+inp, numb);
 }
 
 function Script12()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt2');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "2";
-player.SetVar('gt2', tomato);
+numb = numb + "2";
+player.SetVar('o'+inp, numb);
 }
 
 function Script13()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt2');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "3";
-player.SetVar('gt2', tomato);
+numb = numb + "3";
+player.SetVar('o'+inp, numb);
 }
 
 function Script14()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt2');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "4";
-player.SetVar('gt2', tomato);
+numb = numb + "4";
+player.SetVar('o'+inp, numb);
 }
 
 function Script15()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt2');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "5";
-player.SetVar('gt2', tomato);
+numb = numb + "5";
+player.SetVar('o'+inp, numb);
 }
 
 function Script16()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt2');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "6";
-player.SetVar('gt2', tomato);
+numb = numb + "6";
+player.SetVar('o'+inp, numb);
 }
 
 function Script17()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt2');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "7";
-player.SetVar('gt2', tomato);
+numb = numb + "7";
+player.SetVar('o'+inp, numb);
 }
 
 function Script18()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt2');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "8";
-player.SetVar('gt2', tomato);
+numb = numb + "8";
+player.SetVar('o'+inp, numb);
 }
 
 function Script19()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt2');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "9";
-player.SetVar('gt2', tomato);
+numb = numb + "9";
+player.SetVar('o'+inp, numb);
 }
 
 function Script20()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt2');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "0";
-player.SetVar('gt2', tomato);
+numb = numb + "0";
+player.SetVar('o'+inp, numb);
 }
 
 function Script21()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt3');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "1";
-player.SetVar('gt3', tomato);
+numb = numb + "1";
+player.SetVar('o'+inp, numb);
 }
 
 function Script22()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt3');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "2";
-player.SetVar('gt3', tomato);
+numb = numb + "2";
+player.SetVar('o'+inp, numb);
 }
 
 function Script23()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt3');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "3";
-player.SetVar('gt3', tomato);
+numb = numb + "3";
+player.SetVar('o'+inp, numb);
 }
 
 function Script24()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt3');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "4";
-player.SetVar('gt3', tomato);
+numb = numb + "4";
+player.SetVar('o'+inp, numb);
 }
 
 function Script25()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt3');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "5";
-player.SetVar('gt3', tomato);
+numb = numb + "5";
+player.SetVar('o'+inp, numb);
 }
 
 function Script26()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt3');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "6";
-player.SetVar('gt3', tomato);
+numb = numb + "6";
+player.SetVar('o'+inp, numb);
 }
 
 function Script27()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt3');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "7";
-player.SetVar('gt3', tomato);
+numb = numb + "7";
+player.SetVar('o'+inp, numb);
 }
 
 function Script28()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt3');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "8";
-player.SetVar('gt3', tomato);
+numb = numb + "8";
+player.SetVar('o'+inp, numb);
 }
 
 function Script29()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt3');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "9";
-player.SetVar('gt3', tomato);
+numb = numb + "9";
+player.SetVar('o'+inp, numb);
 }
 
 function Script30()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt3');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "0";
-player.SetVar('gt3', tomato);
+numb = numb + "0";
+player.SetVar('o'+inp, numb);
 }
 
 function Script31()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt4');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "1";
-player.SetVar('gt4', tomato);
+numb = numb + "1";
+player.SetVar('o'+inp, numb);
 }
 
 function Script32()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt4');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "2";
-player.SetVar('gt4', tomato);
+numb = numb + "2";
+player.SetVar('o'+inp, numb);
 }
 
 function Script33()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt4');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "3";
-player.SetVar('gt4', tomato);
+numb = numb + "3";
+player.SetVar('o'+inp, numb);
 }
 
 function Script34()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt4');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "4";
-player.SetVar('gt4', tomato);
+numb = numb + "4";
+player.SetVar('o'+inp, numb);
 }
 
 function Script35()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt4');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "5";
-player.SetVar('gt4', tomato);
+numb = numb + "5";
+player.SetVar('o'+inp, numb);
 }
 
 function Script36()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt4');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "6";
-player.SetVar('gt4', tomato);
+numb = numb + "6";
+player.SetVar('o'+inp, numb);
 }
 
 function Script37()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt4');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "7";
-player.SetVar('gt4', tomato);
+numb = numb + "7";
+player.SetVar('o'+inp, numb);
 }
 
 function Script38()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt4');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "8";
-player.SetVar('gt4', tomato);
+numb = numb + "8";
+player.SetVar('o'+inp, numb);
 }
 
 function Script39()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt4');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "9";
-player.SetVar('gt4', tomato);
+numb = numb + "9";
+player.SetVar('o'+inp, numb);
 }
 
 function Script40()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt4');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "0";
-player.SetVar('gt4', tomato);
+numb = numb + "0";
+player.SetVar('o'+inp, numb);
 }
 
 function Script41()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt71');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "1";
-player.SetVar('gt71', tomato);
+numb = numb + "1";
+player.SetVar('o'+inp, numb);
 }
 
 function Script42()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt71');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "2";
-player.SetVar('gt71', tomato);
+numb = numb + "2";
+player.SetVar('o'+inp, numb);
 }
 
 function Script43()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt71');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "3";
-player.SetVar('gt71', tomato);
+numb = numb + "3";
+player.SetVar('o'+inp, numb);
 }
 
 function Script44()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt71');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "4";
-player.SetVar('gt71', tomato);
+numb = numb + "4";
+player.SetVar('o'+inp, numb);
 }
 
 function Script45()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt71');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "5";
-player.SetVar('gt71', tomato);
+numb = numb + "5";
+player.SetVar('o'+inp, numb);
 }
 
 function Script46()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt71');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "6";
-player.SetVar('gt71', tomato);
+numb = numb + "6";
+player.SetVar('o'+inp, numb);
 }
 
 function Script47()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt71');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "7";
-player.SetVar('gt71', tomato);
+numb = numb + "7";
+player.SetVar('o'+inp, numb);
 }
 
 function Script48()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt71');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "8";
-player.SetVar('gt71', tomato);
+numb = numb + "8";
+player.SetVar('o'+inp, numb);
 }
 
 function Script49()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt71');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "9";
-player.SetVar('gt71', tomato);
+numb = numb + "9";
+player.SetVar('o'+inp, numb);
 }
 
 function Script50()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt71');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "0";
-player.SetVar('gt71', tomato);
+numb = numb + "0";
+player.SetVar('o'+inp, numb);
 }
 
 function Script51()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt72');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "1";
-player.SetVar('gt72', tomato);
+numb = numb + "1";
+player.SetVar('o'+inp, numb);
 }
 
 function Script52()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt72');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "2";
-player.SetVar('gt72', tomato);
+numb = numb + "2";
+player.SetVar('o'+inp, numb);
 }
 
 function Script53()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt72');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "3";
-player.SetVar('gt72', tomato);
+numb = numb + "3";
+player.SetVar('o'+inp, numb);
 }
 
 function Script54()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt72');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "4";
-player.SetVar('gt72', tomato);
+numb = numb + "4";
+player.SetVar('o'+inp, numb);
 }
 
 function Script55()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt72');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "5";
-player.SetVar('gt72', tomato);
+numb = numb + "5";
+player.SetVar('o'+inp, numb);
 }
 
 function Script56()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt72');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "6";
-player.SetVar('gt72', tomato);
+numb = numb + "6";
+player.SetVar('o'+inp, numb);
 }
 
 function Script57()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt72');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "7";
-player.SetVar('gt72', tomato);
+numb = numb + "7";
+player.SetVar('o'+inp, numb);
 }
 
 function Script58()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt72');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "8";
-player.SetVar('gt72', tomato);
+numb = numb + "8";
+player.SetVar('o'+inp, numb);
 }
 
 function Script59()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt72');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "9";
-player.SetVar('gt72', tomato);
+numb = numb + "9";
+player.SetVar('o'+inp, numb);
 }
 
 function Script60()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt72');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "0";
-player.SetVar('gt72', tomato);
+numb = numb + "0";
+player.SetVar('o'+inp, numb);
 }
 
 function Script61()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt73');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "1";
-player.SetVar('gt73', tomato);
+numb = numb + "1";
+player.SetVar('o'+inp, numb);
 }
 
 function Script62()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt73');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "2";
-player.SetVar('gt73', tomato);
+numb = numb + "2";
+player.SetVar('o'+inp, numb);
 }
 
 function Script63()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt73');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "3";
-player.SetVar('gt73', tomato);
+numb = numb + "3";
+player.SetVar('o'+inp, numb);
 }
 
 function Script64()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt73');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "4";
-player.SetVar('gt73', tomato);
+numb = numb + "4";
+player.SetVar('o'+inp, numb);
 }
 
 function Script65()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt73');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "5";
-player.SetVar('gt73', tomato);
+numb = numb + "5";
+player.SetVar('o'+inp, numb);
 }
 
 function Script66()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt73');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "6";
-player.SetVar('gt73', tomato);
+numb = numb + "6";
+player.SetVar('o'+inp, numb);
 }
 
 function Script67()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt73');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "7";
-player.SetVar('gt73', tomato);
+numb = numb + "7";
+player.SetVar('o'+inp, numb);
 }
 
 function Script68()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt73');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "8";
-player.SetVar('gt73', tomato);
+numb = numb + "8";
+player.SetVar('o'+inp, numb);
 }
 
 function Script69()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt73');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "9";
-player.SetVar('gt73', tomato);
+numb = numb + "9";
+player.SetVar('o'+inp, numb);
 }
 
 function Script70()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt73');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "0";
-player.SetVar('gt73', tomato);
+numb = numb + "0";
+player.SetVar('o'+inp, numb);
 }
 
 function Script71()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt74');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "1";
-player.SetVar('gt74', tomato);
+numb = numb + "1";
+player.SetVar('o'+inp, numb);
 }
 
 function Script72()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt74');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "2";
-player.SetVar('gt74', tomato);
+numb = numb + "2";
+player.SetVar('o'+inp, numb);
 }
 
 function Script73()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt74');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "3";
-player.SetVar('gt74', tomato);
+numb = numb + "3";
+player.SetVar('o'+inp, numb);
 }
 
 function Script74()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt74');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "4";
-player.SetVar('gt74', tomato);
+numb = numb + "4";
+player.SetVar('o'+inp, numb);
 }
 
 function Script75()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt74');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "5";
-player.SetVar('gt74', tomato);
+numb = numb + "5";
+player.SetVar('o'+inp, numb);
 }
 
 function Script76()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt74');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "6";
-player.SetVar('gt74', tomato);
+numb = numb + "6";
+player.SetVar('o'+inp, numb);
 }
 
 function Script77()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt74');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "7";
-player.SetVar('gt74', tomato);
+numb = numb + "7";
+player.SetVar('o'+inp, numb);
 }
 
 function Script78()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt74');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "8";
-player.SetVar('gt74', tomato);
+numb = numb + "8";
+player.SetVar('o'+inp, numb);
 }
 
 function Script79()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt74');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "9";
-player.SetVar('gt74', tomato);
+numb = numb + "9";
+player.SetVar('o'+inp, numb);
 }
 
 function Script80()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt74');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "0";
-player.SetVar('gt74', tomato);
+numb = numb + "0";
+player.SetVar('o'+inp, numb);
 }
 
 function Script81()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt75');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "1";
-player.SetVar('gt75', tomato);
+numb = numb + "1";
+player.SetVar('o'+inp, numb);
 }
 
 function Script82()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt75');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "2";
-player.SetVar('gt75', tomato);
+numb = numb + "2";
+player.SetVar('o'+inp, numb);
 }
 
 function Script83()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt75');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "3";
-player.SetVar('gt75', tomato);
+numb = numb + "3";
+player.SetVar('o'+inp, numb);
 }
 
 function Script84()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt75');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "4";
-player.SetVar('gt75', tomato);
+numb = numb + "4";
+player.SetVar('o'+inp, numb);
 }
 
 function Script85()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt75');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "5";
-player.SetVar('gt75', tomato);
+numb = numb + "5";
+player.SetVar('o'+inp, numb);
 }
 
 function Script86()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt75');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "6";
-player.SetVar('gt75', tomato);
+numb = numb + "6";
+player.SetVar('o'+inp, numb);
 }
 
 function Script87()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt75');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "7";
-player.SetVar('gt75', tomato);
+numb = numb + "7";
+player.SetVar('o'+inp, numb);
 }
 
 function Script88()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt75');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "8";
-player.SetVar('gt75', tomato);
+numb = numb + "8";
+player.SetVar('o'+inp, numb);
 }
 
 function Script89()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt75');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "9";
-player.SetVar('gt75', tomato);
+numb = numb + "9";
+player.SetVar('o'+inp, numb);
 }
 
 function Script90()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt75');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "0";
-player.SetVar('gt75', tomato);
+numb = numb + "0";
+player.SetVar('o'+inp, numb);
 }
 
 function Script91()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt81');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "1";
-player.SetVar('gt81', tomato);
+numb = numb + "1";
+player.SetVar('o'+inp, numb);
 }
 
 function Script92()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt81');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "2";
-player.SetVar('gt81', tomato);
+numb = numb + "2";
+player.SetVar('o'+inp, numb);
 }
 
 function Script93()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt81');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "3";
-player.SetVar('gt81', tomato);
+numb = numb + "3";
+player.SetVar('o'+inp, numb);
 }
 
 function Script94()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt81');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "4";
-player.SetVar('gt81', tomato);
+numb = numb + "4";
+player.SetVar('o'+inp, numb);
 }
 
 function Script95()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt81');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "5";
-player.SetVar('gt81', tomato);
+numb = numb + "5";
+player.SetVar('o'+inp, numb);
 }
 
 function Script96()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt81');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "6";
-player.SetVar('gt81', tomato);
+numb = numb + "6";
+player.SetVar('o'+inp, numb);
 }
 
 function Script97()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt81');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "7";
-player.SetVar('gt81', tomato);
+numb = numb + "7";
+player.SetVar('o'+inp, numb);
 }
 
 function Script98()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt81');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "8";
-player.SetVar('gt81', tomato);
+numb = numb + "8";
+player.SetVar('o'+inp, numb);
 }
 
 function Script99()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt81');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "9";
-player.SetVar('gt81', tomato);
+numb = numb + "9";
+player.SetVar('o'+inp, numb);
 }
 
 function Script100()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt81');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "0";
-player.SetVar('gt81', tomato);
+numb = numb + "0";
+player.SetVar('o'+inp, numb);
 }
 
 function Script101()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt83');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "1";
-player.SetVar('gt83', tomato);
+numb = numb + "1";
+player.SetVar('o'+inp, numb);
 }
 
 function Script102()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt83');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "2";
-player.SetVar('gt83', tomato);
+numb = numb + "2";
+player.SetVar('o'+inp, numb);
 }
 
 function Script103()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt83');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "3";
-player.SetVar('gt83', tomato);
+numb = numb + "3";
+player.SetVar('o'+inp, numb);
 }
 
 function Script104()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt83');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "4";
-player.SetVar('gt83', tomato);
+numb = numb + "4";
+player.SetVar('o'+inp, numb);
 }
 
 function Script105()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt83');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "5";
-player.SetVar('gt83', tomato);
+numb = numb + "5";
+player.SetVar('o'+inp, numb);
 }
 
 function Script106()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt83');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "6";
-player.SetVar('gt83', tomato);
+numb = numb + "6";
+player.SetVar('o'+inp, numb);
 }
 
 function Script107()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt83');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "7";
-player.SetVar('gt83', tomato);
+numb = numb + "7";
+player.SetVar('o'+inp, numb);
 }
 
 function Script108()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt83');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "8";
-player.SetVar('gt83', tomato);
+numb = numb + "8";
+player.SetVar('o'+inp, numb);
 }
 
 function Script109()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt83');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "9";
-player.SetVar('gt83', tomato);
+numb = numb + "9";
+player.SetVar('o'+inp, numb);
 }
 
 function Script110()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt83');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "0";
-player.SetVar('gt83', tomato);
+numb = numb + "0";
+player.SetVar('o'+inp, numb);
 }
 
 function Script111()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt85');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "1";
-player.SetVar('gt85', tomato);
+numb = numb + "1";
+player.SetVar('o'+inp, numb);
 }
 
 function Script112()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt85');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "2";
-player.SetVar('gt85', tomato);
+numb = numb + "2";
+player.SetVar('o'+inp, numb);
 }
 
 function Script113()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt85');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "3";
-player.SetVar('gt85', tomato);
+numb = numb + "3";
+player.SetVar('o'+inp, numb);
 }
 
 function Script114()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt85');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "4";
-player.SetVar('gt85', tomato);
+numb = numb + "4";
+player.SetVar('o'+inp, numb);
 }
 
 function Script115()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt85');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "5";
-player.SetVar('gt85', tomato);
+numb = numb + "5";
+player.SetVar('o'+inp, numb);
 }
 
 function Script116()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt85');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "6";
-player.SetVar('gt85', tomato);
+numb = numb + "6";
+player.SetVar('o'+inp, numb);
 }
 
 function Script117()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt85');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "7";
-player.SetVar('gt85', tomato);
+numb = numb + "7";
+player.SetVar('o'+inp, numb);
 }
 
 function Script118()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt85');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "8";
-player.SetVar('gt85', tomato);
+numb = numb + "8";
+player.SetVar('o'+inp, numb);
 }
 
 function Script119()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt85');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "9";
-player.SetVar('gt85', tomato);
+numb = numb + "9";
+player.SetVar('o'+inp, numb);
 }
 
 function Script120()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt85');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "0";
-player.SetVar('gt85', tomato);
+numb = numb + "0";
+player.SetVar('o'+inp, numb);
 }
 
 function Script121()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt86');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "1";
-player.SetVar('gt86', tomato);
+numb = numb + "1";
+player.SetVar('o'+inp, numb);
 }
 
 function Script122()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt86');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "2";
-player.SetVar('gt86', tomato);
+numb = numb + "2";
+player.SetVar('o'+inp, numb);
 }
 
 function Script123()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt86');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "3";
-player.SetVar('gt86', tomato);
+numb = numb + "3";
+player.SetVar('o'+inp, numb);
 }
 
 function Script124()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt86');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "4";
-player.SetVar('gt86', tomato);
+numb = numb + "4";
+player.SetVar('o'+inp, numb);
 }
 
 function Script125()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt86');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "5";
-player.SetVar('gt86', tomato);
+numb = numb + "5";
+player.SetVar('o'+inp, numb);
 }
 
 function Script126()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt86');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "6";
-player.SetVar('gt86', tomato);
+numb = numb + "6";
+player.SetVar('o'+inp, numb);
 }
 
 function Script127()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt86');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "7";
-player.SetVar('gt86', tomato);
+numb = numb + "7";
+player.SetVar('o'+inp, numb);
 }
 
 function Script128()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt86');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "8";
-player.SetVar('gt86', tomato);
+numb = numb + "8";
+player.SetVar('o'+inp, numb);
 }
 
 function Script129()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt86');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "9";
-player.SetVar('gt86', tomato);
+numb = numb + "9";
+player.SetVar('o'+inp, numb);
 }
 
 function Script130()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gt86');
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
+numb = numb + "0";
+player.SetVar('o'+inp, numb);
 }
 
-tomato = tomato + "0";
-player.SetVar('gt86', tomato);
+function Script131()
+{
+  var player = GetPlayer();
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
+
+numb = numb + "1";
+player.SetVar('o'+inp, numb);
+}
+
+function Script132()
+{
+  var player = GetPlayer();
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
+
+numb = numb + "2";
+player.SetVar('o'+inp, numb);
+}
+
+function Script133()
+{
+  var player = GetPlayer();
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
+
+numb = numb + "3";
+player.SetVar('o'+inp, numb);
+}
+
+function Script134()
+{
+  var player = GetPlayer();
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
+
+numb = numb + "4";
+player.SetVar('o'+inp, numb);
+}
+
+function Script135()
+{
+  var player = GetPlayer();
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
+
+numb = numb + "5";
+player.SetVar('o'+inp, numb);
+}
+
+function Script136()
+{
+  var player = GetPlayer();
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
+
+numb = numb + "6";
+player.SetVar('o'+inp, numb);
+}
+
+function Script137()
+{
+  var player = GetPlayer();
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
+
+numb = numb + "7";
+player.SetVar('o'+inp, numb);
+}
+
+function Script138()
+{
+  var player = GetPlayer();
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
+
+numb = numb + "8";
+player.SetVar('o'+inp, numb);
+}
+
+function Script139()
+{
+  var player = GetPlayer();
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
+
+numb = numb + "9";
+player.SetVar('o'+inp, numb);
+}
+
+function Script140()
+{
+  var player = GetPlayer();
+var inp = player.GetVar('input');
+var numb = player.GetVar('o'+inp);
+
+numb = numb + "0";
+player.SetVar('o'+inp, numb);
 }
 

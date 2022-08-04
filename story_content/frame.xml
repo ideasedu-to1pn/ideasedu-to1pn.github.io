@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="npnxnanbnsnfns10111000001" textdirection="ltr" device="true" fontscale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="classic">
+<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="npnxabnsnfns10111000101" textdirection="ltr" device="false" fontscale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="classic">
   <layouts>
-    <layout name="npnxnanbsnfns10111000001" font="Open Sans" controllayout="npnxnanbsnfns10111000001" colorscheme="npnxnanbnsnfns10111000001" string_table="npnxnanbnsnfns10111000001" />
-    <layout name="pxabnsnfns10111000001" font="Open Sans" controllayout="pxabnsnfns10111000001" colorscheme="npnxnanbnsnfns10111000001" string_table="npnxnanbnsnfns10111000001" />
-    <layout name="npxnabnsnfns10111000001" font="Open Sans" controllayout="npxnabnsnfns10111000001" colorscheme="npnxnanbnsnfns10111000001" string_table="npnxnanbnsnfns10111000001" />
-    <layout name="npnxnanbnsnfns10111000001" font="Open Sans" controllayout="npnxnanbnsnfns10111000001" colorscheme="npnxnanbnsnfns10111000001" string_table="npnxnanbnsnfns10111000001" />
-    <layout name="pxabnsnfns10111000000" font="Open Sans" controllayout="pxabnsnfns10111000000" colorscheme="npnxnanbnsnfns10111000001" string_table="npnxnanbnsnfns10111000001" />
+    <layout name="npnxnanbsnfns10111000101" font="Open Sans" controllayout="npnxnanbsnfns10111000101" colorscheme="npnxabnsnfns10111000101" string_table="npnxabnsnfns10111000101" />
+    <layout name="pxabnsnfns10111000101" font="Open Sans" controllayout="pxabnsnfns10111000101" colorscheme="npnxabnsnfns10111000101" string_table="npnxabnsnfns10111000101" />
+    <layout name="npxnabnsnfns10111000101" font="Open Sans" controllayout="npxnabnsnfns10111000101" colorscheme="npnxabnsnfns10111000101" string_table="npnxabnsnfns10111000101" />
+    <layout name="npnxnanbnsnfns10111000101" font="Open Sans" controllayout="npnxnanbnsnfns10111000101" colorscheme="npnxabnsnfns10111000101" string_table="npnxabnsnfns10111000101" />
+    <layout name="pxabnsnfns10111000100" font="Open Sans" controllayout="pxabnsnfns10111000100" colorscheme="npnxabnsnfns10111000101" string_table="npnxabnsnfns10111000101" />
+    <layout name="npnxabnsnfns10111000101" font="Open Sans" controllayout="npnxabnsnfns10111000101" colorscheme="npnxabnsnfns10111000101" string_table="npnxabnsnfns10111000101" />
   </layouts>
   <control_options>
     <optiongroups>
@@ -13,7 +14,7 @@
         <options>
           <option name="title_enabled" value="true">
             <options>
-              <option name="title_text" value="Tuần 33 - Luyện tập chung" />
+              <option name="title_text" value="[TO1PN-1-16] Luyện tập chung" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -21,7 +22,7 @@
           </option>
           <option name="sidebar_enabled" value="false">
             <options>
-              <option name="sidebarpos" value="right" />
+              <option name="sidebarpos" value="left" />
               <option name="closed" value="false" />
             </options>
           </option>
@@ -57,7 +58,7 @@
       </optiongroup>
       <optiongroup name="controls">
         <options>
-          <option name="volume" value="false" />
+          <option name="volume" value="true" />
           <option name="seekbar" value="true">
             <options>
               <option name="readonly" value="false" />
@@ -82,8 +83,8 @@
     </optiongroups>
   </control_options>
   <control_layouts>
-    <control_layout name="npnxnanbsnfns10111000001">
-      <control name="volume" enabled="false" />
+    <control_layout name="npnxnanbsnfns10111000101">
+      <control name="volume" enabled="true" />
       <control name="seekbar" enabled="true" />
       <control name="replay" enabled="true" />
       <control name="pauseplay" enabled="true" />
@@ -105,8 +106,8 @@
       </control>
       <control name="close_btn" enabled="true" />
     </control_layout>
-    <control_layout name="pxabnsnfns10111000001">
-      <control name="volume" enabled="false" />
+    <control_layout name="pxabnsnfns10111000101">
+      <control name="volume" enabled="true" />
       <control name="seekbar" enabled="true" />
       <control name="replay" enabled="true" />
       <control name="pauseplay" enabled="true" />
@@ -128,8 +129,8 @@
       </control>
       <control name="close_btn" enabled="true" />
     </control_layout>
-    <control_layout name="npxnabnsnfns10111000001">
-      <control name="volume" enabled="false" />
+    <control_layout name="npxnabnsnfns10111000101">
+      <control name="volume" enabled="true" />
       <control name="seekbar" enabled="true" />
       <control name="replay" enabled="true" />
       <control name="pauseplay" enabled="true" />
@@ -151,8 +152,8 @@
       </control>
       <control name="close_btn" enabled="true" />
     </control_layout>
-    <control_layout name="npnxnanbnsnfns10111000001">
-      <control name="volume" enabled="false" />
+    <control_layout name="npnxnanbnsnfns10111000101">
+      <control name="volume" enabled="true" />
       <control name="seekbar" enabled="true" />
       <control name="replay" enabled="true" />
       <control name="pauseplay" enabled="true" />
@@ -174,8 +175,8 @@
       </control>
       <control name="close_btn" enabled="true" />
     </control_layout>
-    <control_layout name="pxabnsnfns10111000000">
-      <control name="volume" enabled="false" />
+    <control_layout name="pxabnsnfns10111000100">
+      <control name="volume" enabled="true" />
       <control name="seekbar" enabled="true" />
       <control name="replay" enabled="true" />
       <control name="pauseplay" enabled="true" />
@@ -197,9 +198,32 @@
       </control>
       <control name="close_btn" enabled="false" />
     </control_layout>
+    <control_layout name="npnxabnsnfns10111000101">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="true" />
+      <control name="replay" enabled="true" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="false" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
   </control_layouts>
   <colorschemes>
-    <colorscheme name="npnxnanbnsnfns10111000001">
+    <colorscheme name="npnxabnsnfns10111000101">
       <color_group name="accessibility">
         <group_colors>
           <color name="focus_rect">
@@ -1116,62 +1140,62 @@
     </colorscheme>
   </colorschemes>
   <string_tables>
-    <string_table name="npnxnanbnsnfns10111000001">
-      <string id="acc_active">hoạt động</string>
-      <string id="check_include">Chọn để bao gồm</string>
-      <string id="clear">Xóa và quay lại Trình đơn</string>
-      <string id="close">Đóng</string>
-      <string id="acc_closed_captions">Phụ đề chi tiết. Ấn phím cách để bật và tắt phụ đề.</string>
-      <string id="continue">Tiếp tục</string>
-      <string id="continueresponsive">Tiếp tục</string>
-      <string id="exit">Thoát</string>
-      <string id="filter">Bộ lọc</string>
-      <string id="finish">HOÀN TẤT</string>
-      <string id="acc_finish">hoàn tất</string>
-      <string id="definition">Định nghĩa</string>
-      <string id="acc_definition">định nghĩa</string>
-      <string id="glossary">Chú giải thuật ngữ</string>
-      <string id="terms">Cụm từ</string>
-      <string id="action">Tác vụ</string>
-      <string id="keyboardshortcuts">Phím tắt bàn phím</string>
-      <string id="shortcuthelp">Liệt kê phím tắt bàn phím</string>
-      <string id="shortcut">Phím tắt</string>
-      <string id="togglezoom">Chuyển các chế độ thu phóng</string>
+    <string_table name="npnxabnsnfns10111000101">
+      <string id="acc_active">active</string>
+      <string id="check_include">Check to include</string>
+      <string id="clear">Clear and return to menu</string>
+      <string id="close">Close</string>
+      <string id="acc_closed_captions">Closed captions.</string>
+      <string id="continue">Continue</string>
+      <string id="continueresponsive">Continue</string>
+      <string id="exit">Exit</string>
+      <string id="filter">Filter</string>
+      <string id="finish">FINISH</string>
+      <string id="acc_finish">finish</string>
+      <string id="definition">Definition</string>
+      <string id="acc_definition">definition</string>
+      <string id="glossary">Glossary</string>
+      <string id="terms">Terms</string>
+      <string id="action">Action</string>
+      <string id="keyboardshortcuts">Keyboard Shortcuts</string>
+      <string id="shortcuthelp">List keyboard shortcuts</string>
+      <string id="shortcut">Shortcut</string>
+      <string id="togglezoom">Switch zoom modes</string>
       <string id="outline">MỤC LỤC</string>
-      <string id="disabled_orientation">Vui lòng xoay thiết bị của bạn</string>
-      <string id="next">TIẾP THEO</string>
-      <string id="acc_next">tiếp theo</string>
-      <string id="transcript_chk">Ghi chú</string>
-      <string id="transcript">Ghi chú</string>
-      <string id="bio">Sinh học</string>
-      <string id="more_info">Thông tin thêm</string>
-      <string id="closed_captions">Phụ đề</string>
-      <string id="acc_pause">tạm dừng</string>
-      <string id="acc_play">phát</string>
-      <string id="send_an_email">Gửi email</string>
-      <string id="prev">TRƯỚC</string>
-      <string id="acc_previous">trước</string>
-      <string id="question_list">Danh sách Câu hỏi</string>
-      <string id="acc_replay">phát lại</string>
-      <string id="resources">Tài nguyên</string>
-      <string id="acc_resources">tài nguyên</string>
-      <string id="restart">Bắt đầu lại</string>
-      <string id="resume">Tiếp tục lại</string>
-      <string id="acc_search_input">tìm kiếm</string>
-      <string id="search_toggle">Tìm kiếm</string>
-      <string id="sidebar_toggle">Bật/tắt thanh bên</string>
-      <string id="desktop_start">Bắt đầu khóa học</string>
-      <string id="mobile_start">Bắt đầu khóa học</string>
-      <string id="search">Đang tìm kiếm…</string>
-      <string id="search_in">Tìm kiếm trong:</string>
-      <string id="search_results">Kết quả Tìm kiếm</string>
-      <string id="acc_skipnavigation">Lên đầu trang</string>
-      <string id="slide_text_chk">Văn bản Bản chiếu</string>
-      <string id="submitall">GỬI TẤT CẢ</string>
-      <string id="acc_submitall">gửi tất cả</string>
-      <string id="submit">GỬI</string>
-      <string id="acc_submit">gửi</string>
-      <string id="acc_volume">âm lượng</string>
+      <string id="disabled_orientation">Please rotate your device</string>
+      <string id="next">TIẾP TỤC</string>
+      <string id="acc_next">next</string>
+      <string id="transcript_chk">Notes</string>
+      <string id="transcript">Notes</string>
+      <string id="bio">Bio</string>
+      <string id="more_info">More info</string>
+      <string id="closed_captions">Captions</string>
+      <string id="acc_pause">pause</string>
+      <string id="acc_play">play</string>
+      <string id="send_an_email">Send an email</string>
+      <string id="prev">QUAY LẠI</string>
+      <string id="acc_previous">previous</string>
+      <string id="question_list">Question List</string>
+      <string id="acc_replay">replay</string>
+      <string id="resources">Resources</string>
+      <string id="acc_resources">resources</string>
+      <string id="restart">Restart</string>
+      <string id="resume">Resume</string>
+      <string id="acc_search_input">search</string>
+      <string id="search_toggle">Search</string>
+      <string id="sidebar_toggle">Sidebar Toggle</string>
+      <string id="desktop_start">Start Course</string>
+      <string id="mobile_start">Start Course</string>
+      <string id="search">Search...</string>
+      <string id="search_in">Search in:</string>
+      <string id="search_results">Search Results</string>
+      <string id="acc_skipnavigation">Back to top</string>
+      <string id="slide_text_chk">Slide Text</string>
+      <string id="submitall">SUBMIT ALL</string>
+      <string id="acc_submitall">submit all</string>
+      <string id="submit">SUBMIT</string>
+      <string id="acc_submit">submit</string>
+      <string id="acc_volume">volume</string>
     </string_table>
   </string_tables>
   <fonts>
@@ -1186,27 +1210,58 @@
   <nav_data>
     <outline>
       <links>
-        <slidelink slideid="_player.6Xfn9WjZgCG" displaytext="TO1PN-2-33" expand="true" type="slide">
+        <slidelink slideid="_player.5q0AIpan3pE" displaytext="Luyện tập chung" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.6Xfn9WjZgCG.5d14hHPcCh3" displaytext="Tiêu đề" expand="false" type="slide" />
-            <slidelink slideid="_player.6Xfn9WjZgCG.66QZLXhstOh" displaytext="Mục tiêu" expand="false" type="slide" />
-            <slidelink slideid="_player.6Xfn9WjZgCG.6dE9eBwqZpW" displaytext="Bài 1: Số - 1" expand="false" type="slide" />
-            <slidelink slideid="_player.6Xfn9WjZgCG.5po4QNevSa1" displaytext="Bài 1: Số - 2" expand="false" type="slide" />
-            <slidelink slideid="_player.6Xfn9WjZgCG.6MRZIUHqYH0" displaytext="Bài 2: So sánh - Cặp 1" expand="false" type="slide" />
-            <slidelink slideid="_player.6Xfn9WjZgCG.6JqhaI10toS" displaytext="Bài 2: So sánh - Cặp 2" expand="false" type="slide" />
-            <slidelink slideid="_player.6Xfn9WjZgCG.5iCIjsflzVM" displaytext="Bài 2: So sánh - Cặp 3" expand="false" type="slide" />
-            <slidelink slideid="_player.6Xfn9WjZgCG.5lqe85Rg6YI" displaytext="Bài 2: So sánh - Cặp 4" expand="false" type="slide" />
-            <slidelink slideid="_player.6Xfn9WjZgCG.5oD12FljlzB" displaytext="BÀI 3" expand="false" type="slide" />
-            <slidelink slideid="_player.6Xfn9WjZgCG.6GONbJ7xUIf" displaytext="BÀI 4" expand="false" type="slide" />
-            <slidelink slideid="_player.6Xfn9WjZgCG.5gPFZF3m3FM" displaytext="BÀI 5A" expand="false" type="slide" />
-            <slidelink slideid="_player.6Xfn9WjZgCG.5WzsnrQhRh0" displaytext="BÀI 5B" expand="false" type="slide" />
-            <slidelink slideid="_player.6Xfn9WjZgCG.5sPDCVRGic1" displaytext="BÀI 5C" expand="false" type="slide" />
-            <slidelink slideid="_player.6Xfn9WjZgCG.60nYQkphaMx" displaytext="BÀI 5D" expand="false" type="slide" />
-            <slidelink slideid="_player.6Xfn9WjZgCG.69rlgeDt97e" displaytext="BÀI 6A" expand="false" type="slide" />
-            <slidelink slideid="_player.6Xfn9WjZgCG.6paxuv2mK53" displaytext="BÀI 6B" expand="false" type="slide" />
-            <slidelink slideid="_player.6Xfn9WjZgCG.6grv47Tc22R" displaytext="BÀI 7" expand="false" type="slide" />
-            <slidelink slideid="_player.6Xfn9WjZgCG.679qEDY60px" displaytext="BÀI 8" expand="false" type="slide" />
-            <slidelink slideid="_player.6Xfn9WjZgCG.5l2aiwTuo0o" displaytext="Kết thúc" expand="false" type="slide" />
+            <slidelink slideid="_player.5q0AIpan3pE.6LtYQPwg1DU" displaytext="Mở đầu" expand="false" type="slide" />
+            <slidelink slideid="_player.5q0AIpan3pE.5tJRnGxPqNu" displaytext="Mục tiêu" expand="false" type="slide" />
+            <slidelink slideid="_player.5q0AIpan3pE.5mHkEXq6Iad" displaytext="Bài 1" expand="false" type="slide" />
+            <slidelink slideid="_player.5q0AIpan3pE" displaytext="Bài 2" expand="true" type="slide">
+              <links>
+                <slidelink slideid="_player.5q0AIpan3pE.6G1GDOrUBa8" displaytext="Bài 2a" expand="false" type="slide" />
+                <slidelink slideid="_player.5q0AIpan3pE.6B04rfUAudj" displaytext="Bài 2b" expand="false" type="slide" />
+              </links>
+            </slidelink>
+            <slidelink slideid="_player.5q0AIpan3pE" displaytext="Bài 3" expand="true" type="slide">
+              <links>
+                <slidelink slideid="_player.5q0AIpan3pE.5smv628v19n" displaytext="Bài 3a" expand="false" type="slide" />
+                <slidelink slideid="_player.5q0AIpan3pE.6JWoBpna2kB" displaytext="Bài 3b" expand="false" type="slide" />
+                <slidelink slideid="_player.5q0AIpan3pE.5VcYorbu7Di" displaytext="Bài 3c" expand="false" type="slide" />
+                <slidelink slideid="_player.5q0AIpan3pE.6IkYMEg9WwL" displaytext="Bài 3d" expand="false" type="slide" />
+              </links>
+            </slidelink>
+            <slidelink slideid="_player.5q0AIpan3pE" displaytext="Bài 4" expand="true" type="slide">
+              <links>
+                <slidelink slideid="_player.5q0AIpan3pE.66NI1RUZox9" displaytext="Bài 4a" expand="false" type="slide" />
+                <slidelink slideid="_player.5q0AIpan3pE.5lK9xzknTtk" displaytext="Bài 4b" expand="false" type="slide" />
+                <slidelink slideid="_player.5q0AIpan3pE.6XYhIdn8Voo" displaytext="Bài 4c" expand="false" type="slide" />
+                <slidelink slideid="_player.5q0AIpan3pE.62nG3jzAaGV" displaytext="Bài 4d" expand="false" type="slide" />
+                <slidelink slideid="_player.5q0AIpan3pE.5t0KavPHXOd" displaytext="Bài 4e" expand="false" type="slide" />
+                <slidelink slideid="_player.5q0AIpan3pE.69sAvc7SV24" displaytext="Bài 4f" expand="false" type="slide" />
+              </links>
+            </slidelink>
+            <slidelink slideid="_player.5q0AIpan3pE" displaytext="Bài 5" expand="true" type="slide">
+              <links>
+                <slidelink slideid="_player.5q0AIpan3pE.6QLsi0podUB" displaytext="Bài 5a" expand="false" type="slide" />
+                <slidelink slideid="_player.5q0AIpan3pE.6YjRWVEhSIG" displaytext="Bài 5b" expand="false" type="slide" />
+                <slidelink slideid="_player.5q0AIpan3pE.669k46JRbUo" displaytext="Bài 5c" expand="false" type="slide" />
+              </links>
+            </slidelink>
+            <slidelink slideid="_player.5q0AIpan3pE" displaytext="Bài 6" expand="true" type="slide">
+              <links>
+                <slidelink slideid="_player.5q0AIpan3pE.6UYUAui3RFW" displaytext="Bài 6 mẫu" expand="false" type="slide" />
+                <slidelink slideid="_player.5q0AIpan3pE.6RRKPLi2FO5" displaytext="Bài 6a" expand="false" type="slide" />
+                <slidelink slideid="_player.5q0AIpan3pE.67jhvLXI3dM" displaytext="Bài 6b" expand="false" type="slide" />
+                <slidelink slideid="_player.5q0AIpan3pE.5sgxiMwV9zD" displaytext="Bài 6c" expand="false" type="slide" />
+              </links>
+            </slidelink>
+            <slidelink slideid="_player.5q0AIpan3pE" displaytext="Bài 7" expand="true" type="slide">
+              <links>
+                <slidelink slideid="_player.5q0AIpan3pE.6Ybf4LiyGOB" displaytext="Bài 7a" expand="false" type="slide" />
+                <slidelink slideid="_player.5q0AIpan3pE.6Z3FPctquvk" displaytext="Bài 7b" expand="false" type="slide" />
+              </links>
+            </slidelink>
+            <slidelink slideid="_player.5q0AIpan3pE.6jGpaCHhogU" displaytext="Bài 8" expand="false" type="slide" />
+            <slidelink slideid="_player.5q0AIpan3pE.6Sm2317pGcK" displaytext="Kết thúc" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
