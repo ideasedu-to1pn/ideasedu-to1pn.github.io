@@ -2,449 +2,389 @@ function ExecuteScript(strId)
 {
   switch (strId)
   {
-      case "6PHYA39oCUa":
+      case "5qUBwsTFDGq":
         Script1();
         break;
-      case "65vj42IJPUs":
+      case "6W6heO5I4us":
         Script2();
         break;
-      case "5ucgp8hnHls":
+      case "62DV1DznWDo":
         Script3();
         break;
-      case "6C39rBMKJfm":
+      case "6e2gbuT6p4K":
         Script4();
         break;
-      case "5yS6UgnH3Ew":
+      case "5pYuVAbBjIg":
         Script5();
         break;
-      case "5pbZZiu5Wcx":
+      case "5wKs6uaepN8":
         Script6();
         break;
-      case "6mzlA6SVxiT":
+      case "5g6HOR1zGfn":
         Script7();
         break;
-      case "6WL6V5zuLJ9":
+      case "5b8QjzMKMBO":
         Script8();
         break;
-      case "6CyMudSdZ0D":
+      case "5YSluWBWa6P":
         Script9();
         break;
-      case "6mATKi5gh54":
+      case "6oRG6zsu93P":
         Script10();
         break;
-      case "6WBjYtTN5Os":
+      case "6SFdhifx0cv":
         Script11();
         break;
-      case "6BdsJ6V50sx":
+      case "6QNVEQWQov3":
         Script12();
         break;
-      case "5qoWZFNFeUA":
+      case "6gp2899Bvca":
         Script13();
         break;
-      case "5qaCZPh08K7":
+      case "6ejkjrmXt7Y":
         Script14();
         break;
-      case "6V9yG7LnGbd":
+      case "62xptoya3uR":
         Script15();
         break;
-      case "6V2t0lRFean":
+      case "6EthnPQsMJ4":
         Script16();
         break;
-      case "6Efkscxk2mq":
+      case "6hwYiRNC5wh":
         Script17();
         break;
-      case "6ZomLG17tWq":
+      case "6f4o3juxD2V":
         Script18();
         break;
-      case "6cKDLeqk5PR":
+      case "5rrO20cz2GM":
         Script19();
         break;
-      case "5mcSEoLIehO":
+      case "5zvE0qYFvbs":
         Script20();
         break;
-      case "6aJo4Kd8gSQ":
+      case "6Xu8svzuZbF":
         Script21();
         break;
-      case "6h5Y7v67vAJ":
+      case "6kq9fZsuOqa":
         Script22();
         break;
-      case "67mlfai83eb":
+      case "6azYV8MkxOP":
         Script23();
         break;
-      case "6qWCWsENtZg":
+      case "5WPEZ4ZTV1q":
         Script24();
         break;
-      case "68vwRjLUUFF":
+      case "5kyIGl112HJ":
         Script25();
         break;
-      case "5uynLEwQsl6":
+      case "6kYQ8XlUour":
         Script26();
         break;
-      case "5xkXCCbKmok":
+      case "5otTUJmKLv7":
         Script27();
         break;
-      case "6Di7iSN2L3J":
+      case "6nmmSCcfuEV":
         Script28();
         break;
-      case "6BrBPTFx1fK":
+      case "6FChiuyjdOA":
         Script29();
         break;
-      case "5vWrdP9SCfl":
+      case "6GWfA4CFqSO":
         Script30();
         break;
-      case "6kpoejDY23d":
+      case "64Zl3z9DcF8":
         Script31();
         break;
-      case "6DpaCPZmKD2":
+      case "5sTNG8fNvfy":
         Script32();
         break;
-      case "5yzgQs6oRGa":
+      case "5oA6BhXDNzi":
         Script33();
         break;
-      case "5jglcB9tI6W":
+      case "5ukbRY4tr5h":
         Script34();
         break;
-      case "5s3eXAfQ4Ga":
+      case "5y7Up0qrLgg":
         Script35();
         break;
-      case "6AknIHPqXSW":
+      case "6IpYow5liuw":
         Script36();
         break;
-      case "5gZCEzsOGcV":
+      case "6Ey9KfTq3Kq":
         Script37();
         break;
-      case "5afPFGzbEcj":
+      case "5p21OVRwCva":
         Script38();
         break;
-      case "5XPIMmQFg4O":
+      case "671dfwHjGer":
         Script39();
         break;
-      case "6jOT6olvfqo":
+      case "5cCuYYwzBqW":
         Script40();
         break;
-      case "6jLa2oC5GJE":
+      case "6Rp7pvlTYSV":
         Script41();
         break;
-      case "5coyKTvgrEJ":
+      case "5nlp8wkBCGT":
         Script42();
         break;
-      case "5svGOh06UE6":
+      case "64e73RfqCPx":
         Script43();
         break;
-      case "5VFhs1VHWh3":
+      case "6fNMSB7cshj":
         Script44();
         break;
-      case "6R2mvfvogV0":
+      case "5pvqjaSbG9t":
         Script45();
         break;
-      case "5wqFlJ0tHsD":
+      case "6gSi6YXkgBK":
         Script46();
         break;
-      case "5o4LCppDOQs":
+      case "6fpyBcaw9W2":
         Script47();
         break;
-      case "62bjV3j6GDt":
+      case "6hWkiE8XJUC":
         Script48();
         break;
-      case "6eoUvLtDxPo":
+      case "6XAfOMygp61":
         Script49();
         break;
-      case "6mTuevbB3Hk":
+      case "6LD4N61L8WL":
         Script50();
         break;
-      case "6aN44ZM9Bgm":
+      case "5x7PSRhA851":
         Script51();
         break;
-      case "5fRov7N8jya":
+      case "5Y7rTivtElm":
         Script52();
         break;
-      case "6op0xCQ4DBC":
+      case "5iEAycIP69m":
         Script53();
         break;
-      case "6bdBcRmIIAv":
+      case "5svl0Kld2TD":
         Script54();
         break;
-      case "6caAtt4j0k5":
+      case "6gcvGvMyflH":
         Script55();
         break;
-      case "68BW5DuniI5":
+      case "6U0lfJi7X2f":
         Script56();
         break;
-      case "6jIZtQKVn24":
+      case "6Fo42rAMHji":
         Script57();
         break;
-      case "6gfo7m2STfE":
+      case "62ZlGbtMm47":
         Script58();
         break;
-      case "6ESPawbiNPY":
+      case "6qgoOt5Cu4l":
         Script59();
         break;
-      case "5f76wjrUKPX":
+      case "5uZW8tUCWIP":
         Script60();
         break;
-      case "5xTU4pinw9T":
+      case "6GdC7RZ2Ww5":
         Script61();
         break;
-      case "6LGpKIubQDI":
+      case "5zpyPRJWAqM":
         Script62();
         break;
-      case "63JF0zdreea":
+      case "6G1GzSU0VNq":
         Script63();
         break;
-      case "69I7n0TAr9s":
+      case "6owKiVuEzVs":
         Script64();
         break;
-      case "6JYT03nkjrf":
+      case "69qSNh9uyG0":
         Script65();
         break;
-      case "649C93u8iEG":
+      case "68syVxFB6zT":
         Script66();
         break;
-      case "5hNKt4Vvahw":
+      case "5hyE4e2i2zv":
         Script67();
         break;
-      case "6Sptk0Y97jm":
+      case "6r7bf3EPLrS":
         Script68();
         break;
-      case "5qaDpuvPqv3":
+      case "6SbczaJpJ5v":
         Script69();
         break;
-      case "5qywm0YHRb4":
+      case "6YnanAxtK23":
         Script70();
         break;
-      case "6U8ssPvsMp4":
+      case "6GWyenqL5oD":
         Script71();
         break;
-      case "6LYyNhT5NFJ":
+      case "6ZgwQkBJKtt":
         Script72();
         break;
-      case "6VAkMzNhNmd":
+      case "6BWZoCmQX5k":
         Script73();
         break;
-      case "5nMmiQNlnkr":
+      case "6TTWa1xx8dE":
         Script74();
         break;
-      case "6hEQl2dXZxt":
+      case "6oGGZGmYFki":
         Script75();
         break;
-      case "624NuKkT6lM":
+      case "5qJYLuNZPiv":
         Script76();
         break;
-      case "5wMbo8FhgEi":
+      case "6Dr4kTeijWE":
         Script77();
         break;
-      case "6BQdU5NhKaC":
+      case "6BTiCNocPis":
         Script78();
         break;
-      case "5nFjm5OJW54":
+      case "63jupDz7Eb6":
         Script79();
         break;
-      case "6f8WXEl4qUH":
+      case "5hwfVr5XHau":
         Script80();
         break;
-      case "67AlEmW5MTa":
+      case "6RMstCNVFLd":
         Script81();
         break;
-      case "6o0EfBwQh7U":
+      case "5VGfRI3SNmv":
         Script82();
         break;
-      case "66hAK0yrOMN":
+      case "6IeSsYMlpj5":
         Script83();
         break;
-      case "5ng0TmOTCTV":
+      case "6bsx39w2yAP":
         Script84();
         break;
-      case "6AfZ5xZGdGh":
+      case "61We6lpOHTv":
         Script85();
         break;
-      case "6Q18UENAdXl":
+      case "6I7m6L2rFwY":
         Script86();
         break;
-      case "5pKo75GItew":
+      case "6VfHeFZYO37":
         Script87();
         break;
-      case "5z4YI2ao02t":
+      case "6p1LLokkibl":
         Script88();
         break;
-      case "6dFDzqtzRNk":
+      case "66kSgVmwbAh":
         Script89();
         break;
-      case "5UqKyGAoNFa":
+      case "5g6wEWrMwMI":
         Script90();
         break;
-      case "6B9TwsnSvEk":
+      case "6WacwBxxAe8":
         Script91();
         break;
-      case "6PG4hWISqTf":
+      case "61tH3ZbhPQ0":
         Script92();
         break;
-      case "6LNzx18hUX7":
+      case "6HWDCXdtpqP":
         Script93();
         break;
-      case "5fZ0lK9WLAZ":
+      case "6RRcieW77Kt":
         Script94();
         break;
-      case "64d2aVoTv3K":
+      case "5uAHkKEOhBH":
         Script95();
         break;
-      case "6flQrNuF92I":
+      case "6MdgmxK3dFX":
         Script96();
         break;
-      case "69ixJCAemku":
+      case "5mO6uOPql9v":
         Script97();
         break;
-      case "6jFYEqkDZeG":
+      case "6aheGiCOZID":
         Script98();
         break;
-      case "6rGAS8PC2sP":
+      case "5V7Ukh5DKpo":
         Script99();
         break;
-      case "65weZW2Rgpr":
+      case "5xDyJzjKhYQ":
         Script100();
         break;
-      case "6BK7QID0Mmy":
+      case "5dNUTzzupmd":
         Script101();
         break;
-      case "5YB6Rf7EV44":
+      case "67vlcH372KK":
         Script102();
         break;
-      case "5eZaggn0JhH":
+      case "5dxsDhVpeBY":
         Script103();
         break;
-      case "5kWtfmcofyr":
+      case "5WaHNdgYGbI":
         Script104();
         break;
-      case "5lCuaeZWucm":
+      case "6hTGcaFVNtf":
         Script105();
         break;
-      case "6nlwMMbFo04":
+      case "6d6mJoDBlkm":
         Script106();
         break;
-      case "6Q3aY8oyAPW":
+      case "5nkhxyNEw1T":
         Script107();
         break;
-      case "5mNGYuixu6w":
+      case "6oSarcDkmnI":
         Script108();
         break;
-      case "5tO8Td5f1w0":
+      case "649cjN6Brti":
         Script109();
         break;
-      case "6hweli7NbdC":
+      case "5sCtl8QVAuS":
         Script110();
         break;
-      case "6PbnHXZ8GLf":
+      case "6IiOZfV7LGK":
         Script111();
         break;
-      case "6g1fmB0EcRi":
+      case "6iLkEOm5VHm":
         Script112();
         break;
-      case "5dq8csBs6To":
+      case "6a5sNUI9WZK":
         Script113();
         break;
-      case "6l4LxHgy1JR":
+      case "6QZ89Qq6Npt":
         Script114();
         break;
-      case "6J9ow89LY8Z":
+      case "5pEiCpI6cDa":
         Script115();
         break;
-      case "6P7EDfCVRjK":
+      case "6IrJO17eLbL":
         Script116();
         break;
-      case "6pfQV3Qio8j":
+      case "6WY1trhphzq":
         Script117();
         break;
-      case "5jJqctzI7gf":
+      case "5bQCW6kDLrl":
         Script118();
         break;
-      case "6haFWVDm5WN":
+      case "6mTi52nOZbM":
         Script119();
         break;
-      case "6AI9TBHuBXI":
+      case "5WGi41c1e9v":
         Script120();
         break;
-      case "6lxlmeIJ3f1":
+      case "5pgCbBoohQb":
         Script121();
         break;
-      case "5ZIZvCjNOpb":
+      case "6pdaTrsc0D5":
         Script122();
         break;
-      case "5rzSNlmPDz3":
+      case "6Af2agbcSyd":
         Script123();
         break;
-      case "6CBTHyGX7RS":
+      case "6TSfEAqcF5q":
         Script124();
         break;
-      case "69RLUGhoIbs":
+      case "5eqPZhskRxy":
         Script125();
         break;
-      case "6esN2swTIEX":
+      case "6bCFYy5Tbdo":
         Script126();
         break;
-      case "5pBck2dDZrn":
+      case "6edwCCl7DAz":
         Script127();
         break;
-      case "5l69slGCvYp":
+      case "6K1lM5xUwKK":
         Script128();
-        break;
-      case "5oY9puXZPgR":
-        Script129();
-        break;
-      case "5vCR3IKapnD":
-        Script130();
-        break;
-      case "5d18ghslaMT":
-        Script131();
-        break;
-      case "5YH5qHnlhoW":
-        Script132();
-        break;
-      case "5f7Z95xjcaW":
-        Script133();
-        break;
-      case "5rZ4Ec9zJvh":
-        Script134();
-        break;
-      case "6Iag4lWZg2C":
-        Script135();
-        break;
-      case "5scXJ1gvSRo":
-        Script136();
-        break;
-      case "5pJBY42iG3K":
-        Script137();
-        break;
-      case "5yDGSA7UwIv":
-        Script138();
-        break;
-      case "66hMoch4jg1":
-        Script139();
-        break;
-      case "69W0WCw4fY1":
-        Script140();
-        break;
-      case "6MMOBNxnFyh":
-        Script141();
-        break;
-      case "6hVlPSF5xfa":
-        Script142();
-        break;
-      case "6mhysbCV95t":
-        Script143();
-        break;
-      case "6RhIYnZN8GU":
-        Script144();
-        break;
-      case "65Rsbn0xOCz":
-        Script145();
-        break;
-      case "6fqBnE5Fvlo":
-        Script146();
-        break;
-      case "6TGZBQMEfvs":
-        Script147();
-        break;
-      case "5afq3S1wkeI":
-        Script148();
         break;
   }
 }
@@ -1307,181 +1247,241 @@ player.SetVar('gt8a1', tomato);
 function Script70()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('bai2a5');
+var tomato = player.GetVar('bai2a3');
 
 tomato = tomato + "1";
-player.SetVar('bai2a5', tomato);
+player.SetVar('bai2a3', tomato);
 }
 
 function Script71()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('bai2a5');
+var tomato = player.GetVar('bai2a3');
 
 tomato = tomato + "2";
-player.SetVar('bai2a5', tomato);
+player.SetVar('bai2a3', tomato);
 }
 
 function Script72()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('bai2a5');
+var tomato = player.GetVar('bai2a3');
 
 tomato = tomato + "3";
-player.SetVar('bai2a5', tomato);
+player.SetVar('bai2a3', tomato);
 }
 
 function Script73()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('bai2a5');
+var tomato = player.GetVar('bai2a3');
 
 tomato = tomato + "4";
-player.SetVar('bai2a5', tomato);
+player.SetVar('bai2a3', tomato);
 }
 
 function Script74()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('bai2a5');
+var tomato = player.GetVar('bai2a3');
 
 tomato = tomato + "5";
-player.SetVar('bai2a5', tomato);
+player.SetVar('bai2a3', tomato);
 }
 
 function Script75()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('bai2a5');
+var tomato = player.GetVar('bai2a3');
 
 tomato = tomato + "6";
-player.SetVar('bai2a5', tomato);
+player.SetVar('bai2a3', tomato);
 }
 
 function Script76()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('bai2a5');
+var tomato = player.GetVar('bai2a3');
 
 tomato = tomato + "7";
-player.SetVar('bai2a5', tomato);
+player.SetVar('bai2a3', tomato);
 }
 
 function Script77()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('bai2a5');
+var tomato = player.GetVar('bai2a3');
 
 tomato = tomato + "8";
-player.SetVar('bai2a5', tomato);
+player.SetVar('bai2a3', tomato);
 }
 
 function Script78()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('bai2a5');
+var tomato = player.GetVar('bai2a3');
 
 tomato = tomato + "9";
-player.SetVar('bai2a5', tomato);
+player.SetVar('bai2a3', tomato);
 }
 
 function Script79()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('bai2a5');
+var tomato = player.GetVar('bai2a3');
 
 tomato = tomato + "0";
-player.SetVar('bai2a5', tomato);
+player.SetVar('bai2a3', tomato);
 }
 
 function Script80()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('bai2a3');
+var tomato = player.GetVar('gta4');
+
+// check tomato equal ?
+if (tomato == '?') 
+{
+tomato = "";
+}
 
 tomato = tomato + "1";
-player.SetVar('bai2a3', tomato);
+player.SetVar('gta4', tomato);
 }
 
 function Script81()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('bai2a3');
+var tomato = player.GetVar('gta4');
+
+// check tomato equal ?
+if (tomato == '?') 
+{
+tomato = "";
+}
 
 tomato = tomato + "2";
-player.SetVar('bai2a3', tomato);
+player.SetVar('gta4', tomato);
 }
 
 function Script82()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('bai2a3');
+var tomato = player.GetVar('gta4');
+
+// check tomato equal ?
+if (tomato == '?') 
+{
+tomato = "";
+}
 
 tomato = tomato + "3";
-player.SetVar('bai2a3', tomato);
+player.SetVar('gta4', tomato);
 }
 
 function Script83()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('bai2a3');
+var tomato = player.GetVar('gta4');
+
+// check tomato equal ?
+if (tomato == '?') 
+{
+tomato = "";
+}
 
 tomato = tomato + "4";
-player.SetVar('bai2a3', tomato);
+player.SetVar('gta4', tomato);
 }
 
 function Script84()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('bai2a3');
+var tomato = player.GetVar('gta4');
+
+// check tomato equal ?
+if (tomato == '?') 
+{
+tomato = "";
+}
 
 tomato = tomato + "5";
-player.SetVar('bai2a3', tomato);
+player.SetVar('gta4', tomato);
 }
 
 function Script85()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('bai2a3');
+var tomato = player.GetVar('gta4');
+
+// check tomato equal ?
+if (tomato == '?') 
+{
+tomato = "";
+}
 
 tomato = tomato + "6";
-player.SetVar('bai2a3', tomato);
+player.SetVar('gta4', tomato);
 }
 
 function Script86()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('bai2a3');
+var tomato = player.GetVar('gta4');
+
+// check tomato equal ?
+if (tomato == '?') 
+{
+tomato = "";
+}
 
 tomato = tomato + "7";
-player.SetVar('bai2a3', tomato);
+player.SetVar('gta4', tomato);
 }
 
 function Script87()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('bai2a3');
+var tomato = player.GetVar('gta4');
+
+// check tomato equal ?
+if (tomato == '?') 
+{
+tomato = "";
+}
 
 tomato = tomato + "8";
-player.SetVar('bai2a3', tomato);
+player.SetVar('gta4', tomato);
 }
 
 function Script88()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('bai2a3');
+var tomato = player.GetVar('gta4');
+
+// check tomato equal ?
+if (tomato == '?') 
+{
+tomato = "";
+}
 
 tomato = tomato + "9";
-player.SetVar('bai2a3', tomato);
+player.SetVar('gta4', tomato);
 }
 
 function Script89()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('bai2a3');
+var tomato = player.GetVar('gta4');
+
+// check tomato equal ?
+if (tomato == '?') 
+{
+tomato = "";
+}
 
 tomato = tomato + "0";
-player.SetVar('bai2a3', tomato);
+player.SetVar('gta4', tomato);
 }
 
 function Script90()
@@ -1495,7 +1495,7 @@ if (tomato == '?')
 tomato = "";
 }
 
-tomato = tomato + "1";
+tomato = tomato + "+";
 player.SetVar('gta4', tomato);
 }
 
@@ -1510,7 +1510,7 @@ if (tomato == '?')
 tomato = "";
 }
 
-tomato = tomato + "2";
+tomato = tomato + "-";
 player.SetVar('gta4', tomato);
 }
 
@@ -1525,14 +1525,59 @@ if (tomato == '?')
 tomato = "";
 }
 
-tomato = tomato + "3";
+tomato = tomato + "=";
 player.SetVar('gta4', tomato);
 }
 
 function Script93()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gta4');
+var tomato = player.GetVar('gta2');
+
+// check tomato equal ?
+if (tomato == '?') 
+{
+tomato = "";
+}
+
+tomato = tomato + "1";
+player.SetVar('gta2', tomato);
+}
+
+function Script94()
+{
+  var player = GetPlayer();
+var tomato = player.GetVar('gta2');
+
+// check tomato equal ?
+if (tomato == '?') 
+{
+tomato = "";
+}
+
+tomato = tomato + "2";
+player.SetVar('gta2', tomato);
+}
+
+function Script95()
+{
+  var player = GetPlayer();
+var tomato = player.GetVar('gta2');
+
+// check tomato equal ?
+if (tomato == '?') 
+{
+tomato = "";
+}
+
+tomato = tomato + "3";
+player.SetVar('gta2', tomato);
+}
+
+function Script96()
+{
+  var player = GetPlayer();
+var tomato = player.GetVar('gta2');
 
 // check tomato equal ?
 if (tomato == '?') 
@@ -1541,13 +1586,13 @@ tomato = "";
 }
 
 tomato = tomato + "4";
-player.SetVar('gta4', tomato);
+player.SetVar('gta2', tomato);
 }
 
-function Script94()
+function Script97()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gta4');
+var tomato = player.GetVar('gta2');
 
 // check tomato equal ?
 if (tomato == '?') 
@@ -1556,13 +1601,13 @@ tomato = "";
 }
 
 tomato = tomato + "5";
-player.SetVar('gta4', tomato);
+player.SetVar('gta2', tomato);
 }
 
-function Script95()
+function Script98()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gta4');
+var tomato = player.GetVar('gta2');
 
 // check tomato equal ?
 if (tomato == '?') 
@@ -1571,13 +1616,13 @@ tomato = "";
 }
 
 tomato = tomato + "6";
-player.SetVar('gta4', tomato);
+player.SetVar('gta2', tomato);
 }
 
-function Script96()
+function Script99()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gta4');
+var tomato = player.GetVar('gta2');
 
 // check tomato equal ?
 if (tomato == '?') 
@@ -1586,13 +1631,13 @@ tomato = "";
 }
 
 tomato = tomato + "7";
-player.SetVar('gta4', tomato);
+player.SetVar('gta2', tomato);
 }
 
-function Script97()
+function Script100()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gta4');
+var tomato = player.GetVar('gta2');
 
 // check tomato equal ?
 if (tomato == '?') 
@@ -1601,13 +1646,13 @@ tomato = "";
 }
 
 tomato = tomato + "8";
-player.SetVar('gta4', tomato);
+player.SetVar('gta2', tomato);
 }
 
-function Script98()
+function Script101()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gta4');
+var tomato = player.GetVar('gta2');
 
 // check tomato equal ?
 if (tomato == '?') 
@@ -1616,13 +1661,13 @@ tomato = "";
 }
 
 tomato = tomato + "9";
-player.SetVar('gta4', tomato);
+player.SetVar('gta2', tomato);
 }
 
-function Script99()
+function Script102()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gta4');
+var tomato = player.GetVar('gta2');
 
 // check tomato equal ?
 if (tomato == '?') 
@@ -1631,52 +1676,7 @@ tomato = "";
 }
 
 tomato = tomato + "0";
-player.SetVar('gta4', tomato);
-}
-
-function Script100()
-{
-  var player = GetPlayer();
-var tomato = player.GetVar('gta4');
-
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "+";
-player.SetVar('gta4', tomato);
-}
-
-function Script101()
-{
-  var player = GetPlayer();
-var tomato = player.GetVar('gta4');
-
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "-";
-player.SetVar('gta4', tomato);
-}
-
-function Script102()
-{
-  var player = GetPlayer();
-var tomato = player.GetVar('gta4');
-
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "=";
-player.SetVar('gta4', tomato);
+player.SetVar('gta2', tomato);
 }
 
 function Script103()
@@ -1690,7 +1690,7 @@ if (tomato == '?')
 tomato = "";
 }
 
-tomato = tomato + "1";
+tomato = tomato + "+";
 player.SetVar('gta2', tomato);
 }
 
@@ -1705,7 +1705,7 @@ if (tomato == '?')
 tomato = "";
 }
 
-tomato = tomato + "2";
+tomato = tomato + "-";
 player.SetVar('gta2', tomato);
 }
 
@@ -1720,14 +1720,59 @@ if (tomato == '?')
 tomato = "";
 }
 
-tomato = tomato + "3";
+tomato = tomato + "=";
 player.SetVar('gta2', tomato);
 }
 
 function Script106()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gta2');
+var tomato = player.GetVar('gta1');
+
+// check tomato equal ?
+if (tomato == '?') 
+{
+tomato = "";
+}
+
+tomato = tomato + "1";
+player.SetVar('gta1', tomato);
+}
+
+function Script107()
+{
+  var player = GetPlayer();
+var tomato = player.GetVar('gta1');
+
+// check tomato equal ?
+if (tomato == '?') 
+{
+tomato = "";
+}
+
+tomato = tomato + "2";
+player.SetVar('gta1', tomato);
+}
+
+function Script108()
+{
+  var player = GetPlayer();
+var tomato = player.GetVar('gta1');
+
+// check tomato equal ?
+if (tomato == '?') 
+{
+tomato = "";
+}
+
+tomato = tomato + "3";
+player.SetVar('gta1', tomato);
+}
+
+function Script109()
+{
+  var player = GetPlayer();
+var tomato = player.GetVar('gta1');
 
 // check tomato equal ?
 if (tomato == '?') 
@@ -1736,13 +1781,13 @@ tomato = "";
 }
 
 tomato = tomato + "4";
-player.SetVar('gta2', tomato);
+player.SetVar('gta1', tomato);
 }
 
-function Script107()
+function Script110()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gta2');
+var tomato = player.GetVar('gta1');
 
 // check tomato equal ?
 if (tomato == '?') 
@@ -1751,13 +1796,13 @@ tomato = "";
 }
 
 tomato = tomato + "5";
-player.SetVar('gta2', tomato);
+player.SetVar('gta1', tomato);
 }
 
-function Script108()
+function Script111()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gta2');
+var tomato = player.GetVar('gta1');
 
 // check tomato equal ?
 if (tomato == '?') 
@@ -1766,13 +1811,13 @@ tomato = "";
 }
 
 tomato = tomato + "6";
-player.SetVar('gta2', tomato);
+player.SetVar('gta1', tomato);
 }
 
-function Script109()
+function Script112()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gta2');
+var tomato = player.GetVar('gta1');
 
 // check tomato equal ?
 if (tomato == '?') 
@@ -1781,13 +1826,13 @@ tomato = "";
 }
 
 tomato = tomato + "7";
-player.SetVar('gta2', tomato);
+player.SetVar('gta1', tomato);
 }
 
-function Script110()
+function Script113()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gta2');
+var tomato = player.GetVar('gta1');
 
 // check tomato equal ?
 if (tomato == '?') 
@@ -1796,13 +1841,13 @@ tomato = "";
 }
 
 tomato = tomato + "8";
-player.SetVar('gta2', tomato);
+player.SetVar('gta1', tomato);
 }
 
-function Script111()
+function Script114()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gta2');
+var tomato = player.GetVar('gta1');
 
 // check tomato equal ?
 if (tomato == '?') 
@@ -1811,13 +1856,13 @@ tomato = "";
 }
 
 tomato = tomato + "9";
-player.SetVar('gta2', tomato);
+player.SetVar('gta1', tomato);
 }
 
-function Script112()
+function Script115()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gta2');
+var tomato = player.GetVar('gta1');
 
 // check tomato equal ?
 if (tomato == '?') 
@@ -1826,52 +1871,7 @@ tomato = "";
 }
 
 tomato = tomato + "0";
-player.SetVar('gta2', tomato);
-}
-
-function Script113()
-{
-  var player = GetPlayer();
-var tomato = player.GetVar('gta2');
-
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "+";
-player.SetVar('gta2', tomato);
-}
-
-function Script114()
-{
-  var player = GetPlayer();
-var tomato = player.GetVar('gta2');
-
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "-";
-player.SetVar('gta2', tomato);
-}
-
-function Script115()
-{
-  var player = GetPlayer();
-var tomato = player.GetVar('gta2');
-
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "=";
-player.SetVar('gta2', tomato);
+player.SetVar('gta1', tomato);
 }
 
 function Script116()
@@ -1885,7 +1885,7 @@ if (tomato == '?')
 tomato = "";
 }
 
-tomato = tomato + "1";
+tomato = tomato + "+";
 player.SetVar('gta1', tomato);
 }
 
@@ -1900,7 +1900,7 @@ if (tomato == '?')
 tomato = "";
 }
 
-tomato = tomato + "2";
+tomato = tomato + "-";
 player.SetVar('gta1', tomato);
 }
 
@@ -1915,337 +1915,97 @@ if (tomato == '?')
 tomato = "";
 }
 
-tomato = tomato + "3";
+tomato = tomato + "=";
 player.SetVar('gta1', tomato);
 }
 
 function Script119()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gta1');
+var tomato = player.GetVar('bai2a5');
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "4";
-player.SetVar('gta1', tomato);
+tomato = tomato + "1";
+player.SetVar('bai2a5', tomato);
 }
 
 function Script120()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gta1');
+var tomato = player.GetVar('bai2a5');
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "5";
-player.SetVar('gta1', tomato);
+tomato = tomato + "2";
+player.SetVar('bai2a5', tomato);
 }
 
 function Script121()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gta1');
+var tomato = player.GetVar('bai2a5');
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "6";
-player.SetVar('gta1', tomato);
+tomato = tomato + "3";
+player.SetVar('bai2a5', tomato);
 }
 
 function Script122()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gta1');
+var tomato = player.GetVar('bai2a5');
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "7";
-player.SetVar('gta1', tomato);
+tomato = tomato + "4";
+player.SetVar('bai2a5', tomato);
 }
 
 function Script123()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gta1');
+var tomato = player.GetVar('bai2a5');
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "8";
-player.SetVar('gta1', tomato);
+tomato = tomato + "5";
+player.SetVar('bai2a5', tomato);
 }
 
 function Script124()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gta1');
+var tomato = player.GetVar('bai2a5');
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "9";
-player.SetVar('gta1', tomato);
+tomato = tomato + "6";
+player.SetVar('bai2a5', tomato);
 }
 
 function Script125()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gta1');
+var tomato = player.GetVar('bai2a5');
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "0";
-player.SetVar('gta1', tomato);
+tomato = tomato + "7";
+player.SetVar('bai2a5', tomato);
 }
 
 function Script126()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gta1');
+var tomato = player.GetVar('bai2a5');
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "+";
-player.SetVar('gta1', tomato);
+tomato = tomato + "8";
+player.SetVar('bai2a5', tomato);
 }
 
 function Script127()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gta1');
+var tomato = player.GetVar('bai2a5');
 
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "-";
-player.SetVar('gta1', tomato);
+tomato = tomato + "9";
+player.SetVar('bai2a5', tomato);
 }
 
 function Script128()
 {
   var player = GetPlayer();
-var tomato = player.GetVar('gta1');
-
-// check tomato equal ?
-if (tomato == '?') 
-{
-tomato = "";
-}
-
-tomato = tomato + "=";
-player.SetVar('gta1', tomato);
-}
-
-function Script129()
-{
-  var player = GetPlayer();
-var tomato = player.GetVar('bai2a5');
-
-tomato = tomato + "1";
-player.SetVar('bai2a5', tomato);
-}
-
-function Script130()
-{
-  var player = GetPlayer();
-var tomato = player.GetVar('bai2a5');
-
-tomato = tomato + "2";
-player.SetVar('bai2a5', tomato);
-}
-
-function Script131()
-{
-  var player = GetPlayer();
-var tomato = player.GetVar('bai2a5');
-
-tomato = tomato + "3";
-player.SetVar('bai2a5', tomato);
-}
-
-function Script132()
-{
-  var player = GetPlayer();
-var tomato = player.GetVar('bai2a5');
-
-tomato = tomato + "4";
-player.SetVar('bai2a5', tomato);
-}
-
-function Script133()
-{
-  var player = GetPlayer();
-var tomato = player.GetVar('bai2a5');
-
-tomato = tomato + "5";
-player.SetVar('bai2a5', tomato);
-}
-
-function Script134()
-{
-  var player = GetPlayer();
-var tomato = player.GetVar('bai2a5');
-
-tomato = tomato + "6";
-player.SetVar('bai2a5', tomato);
-}
-
-function Script135()
-{
-  var player = GetPlayer();
-var tomato = player.GetVar('bai2a5');
-
-tomato = tomato + "7";
-player.SetVar('bai2a5', tomato);
-}
-
-function Script136()
-{
-  var player = GetPlayer();
-var tomato = player.GetVar('bai2a5');
-
-tomato = tomato + "8";
-player.SetVar('bai2a5', tomato);
-}
-
-function Script137()
-{
-  var player = GetPlayer();
-var tomato = player.GetVar('bai2a5');
-
-tomato = tomato + "9";
-player.SetVar('bai2a5', tomato);
-}
-
-function Script138()
-{
-  var player = GetPlayer();
 var tomato = player.GetVar('bai2a5');
 
 tomato = tomato + "0";
 player.SetVar('bai2a5', tomato);
-}
-
-function Script139()
-{
-  var player = GetPlayer();
-var tomato = player.GetVar('bai2a3');
-
-tomato = tomato + "1";
-player.SetVar('bai2a3', tomato);
-}
-
-function Script140()
-{
-  var player = GetPlayer();
-var tomato = player.GetVar('bai2a3');
-
-tomato = tomato + "2";
-player.SetVar('bai2a3', tomato);
-}
-
-function Script141()
-{
-  var player = GetPlayer();
-var tomato = player.GetVar('bai2a3');
-
-tomato = tomato + "3";
-player.SetVar('bai2a3', tomato);
-}
-
-function Script142()
-{
-  var player = GetPlayer();
-var tomato = player.GetVar('bai2a3');
-
-tomato = tomato + "4";
-player.SetVar('bai2a3', tomato);
-}
-
-function Script143()
-{
-  var player = GetPlayer();
-var tomato = player.GetVar('bai2a3');
-
-tomato = tomato + "5";
-player.SetVar('bai2a3', tomato);
-}
-
-function Script144()
-{
-  var player = GetPlayer();
-var tomato = player.GetVar('bai2a3');
-
-tomato = tomato + "6";
-player.SetVar('bai2a3', tomato);
-}
-
-function Script145()
-{
-  var player = GetPlayer();
-var tomato = player.GetVar('bai2a3');
-
-tomato = tomato + "7";
-player.SetVar('bai2a3', tomato);
-}
-
-function Script146()
-{
-  var player = GetPlayer();
-var tomato = player.GetVar('bai2a3');
-
-tomato = tomato + "8";
-player.SetVar('bai2a3', tomato);
-}
-
-function Script147()
-{
-  var player = GetPlayer();
-var tomato = player.GetVar('bai2a3');
-
-tomato = tomato + "9";
-player.SetVar('bai2a3', tomato);
-}
-
-function Script148()
-{
-  var player = GetPlayer();
-var tomato = player.GetVar('bai2a3');
-
-tomato = tomato + "0";
-player.SetVar('bai2a3', tomato);
 }
 
